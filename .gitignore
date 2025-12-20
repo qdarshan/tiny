@@ -1,0 +1,33 @@
+# Go
+bin/
+dist/
+*.exe
+*.dll
+*.so
+*.dylib
+go.sum
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+target/
+.gradle/
+build/
+out/
+.classpath
+.project
+.settings/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Build artifacts
+*.o
+*.a
